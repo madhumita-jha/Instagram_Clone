@@ -1,2 +1,2 @@
 # Instagram_Clone
-Created with CodeSandboxusing HTML CSS JS
+Created with CodeSandbox using HTML CSS JS
